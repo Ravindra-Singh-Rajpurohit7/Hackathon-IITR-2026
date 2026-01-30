@@ -1,9 +1,16 @@
-import React from 'react'
+import React from 'react';
+import Navbar from './components/Navbar';
+import Home from './pages/Home';
 
-const App = () => {
+function App() {
   return (
-    <div>App</div>
-  )
+    <div className="min-h-screen bg-slate-50">
+      <Navbar />
+      <main className="container mx-auto">
+        <Home />
+      </main>
+    </div>
+  );
 }
 
-export default App
+export default App;
