@@ -115,7 +115,7 @@ https://token-lelo.netlify.app/
 ## projece-photo
 <img width="950" height="419" alt="image" src="https://github.com/user-attachments/assets/9a0dcfb2-ec01-402c-974a-97fe50ce223a" />
 
-#project_vedio_demo_link
+## project_vedio_demo_link
 https://youtu.be/SyN4G4fNVDs?si=PAOI3i_jJsnosUy9
 
 
