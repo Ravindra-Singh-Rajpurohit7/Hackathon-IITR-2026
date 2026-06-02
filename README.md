@@ -8,7 +8,7 @@ Instead of standing in long physical lines, users can simply scan a QR code, joi
 
 ## Author
 
-**Ravindra Singh Rajpurohit ans my 3 teammates**
+**Me ans my 3 teammates**
 
 ## Problem Statement
 
